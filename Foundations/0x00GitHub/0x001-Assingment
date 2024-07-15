@@ -3,10 +3,12 @@ create a New repo called CodeBadger
 Add a Readme file at the root of the Repo
 Your Readme file must contain the content "Learning Software Foundations at CodeBadgerTech"
 Now create a folder(directory) called Foundations
-Inside this folder, create a five called course_Overview
+Inside this folder, create a file called course_Overview
 paste this link (link here) in the course overview file
 Inside The Foundations Folder create another folder called 0x00GitHub
 Inside the 0x00GitHub create a Readme file. The Readme file should contain the content of the Readme of this 
 particular folder in this repo. (As specified In class) You will notice the text are not written like this one. It is called
 markdown. We will get to It.
 Make sure You always add proper commit messages
+
+GoodLuck
