@@ -73,4 +73,4 @@ to create a Readme just create a file with the extention .md (md stands for mark
 ### What Is A Commit Message
 A commit message is a short description that explains the changes made in a specific update (or "commit") to a software project managed with version control systems like Git. It helps team members understand the purpose and context of each change made to the codebase. To write a good commit message, just make sure that the message explians the changes you mad in one sentence
 
-``` With is you will be able to complete the first assingments. Head over there and you will be told when it is time to proceed to the advanced course```
+``` With is you will be able to complete the first assingments(oxoo1-Assignment). Head over there and you will be told when it is time to proceed to the advanced course```
