@@ -25,7 +25,11 @@
 
 [`What is Git`](#popular-source-code-management-tools)
 
+[`How To create A Repo`](#how-to-create-a-repository)
 
+[`What is A Readme file`](#what-is-a-readme-file)
+
+[`What are Commit Messages`](#What-is-a-commit-message)
 
 ## Source Code Management
 Source Code Management (SCM) is the practice of tracking and managing changes to software code. It is an essential aspect of modern software development, enabling multiple developers to collaborate efficiently on the same project.
@@ -55,3 +59,18 @@ GitHub is an online platform that helps you store and manage your code. It is li
 
 [Difference between Git and GitHub](https://youtube.com/shorts/MCVRnt1JQLA?si=NtPwFbWZ2S03nP1w)
 
+### How To Create A Repository
+A repository (often shortened to "repo") is a storage space where your project's files and the history of changes made to those files are kept. Think of it as a digital project folder.
+
+[`How to create a Repo`](https://youtu.be/IX4_12SFxak?si=1lI8fxEDOSKv_nGX)
+
+### What Is A Readme File
+A README file is a text file (usually in Markdown format) that is included in a project repository. It provides essential information about the project, such as what it does, how to set it up, how to use it, and any other pertinent details. The README file is often the first thing someone will look at when they visit your repository.
+
+to create a Readme just create a file with the extention .md (md stands for markdown)
+
+
+### What Is A Commit Message
+A commit message is a short description that explains the changes made in a specific update (or "commit") to a software project managed with version control systems like Git. It helps team members understand the purpose and context of each change made to the codebase. To write a good commit message, just make sure that the message explians the changes you mad in one sentence
+
+``` With is you will be able to complete the first assingments. Head over there and you will be told when it is time to proceed to the advanced course```
