@@ -1,0 +1,12 @@
+Create an HTML file named mypage.html in the introduction folder for html.
+this page represents a personal web page. Your page should include the following elements:
+
+A heading (use the <h1> tag) with the title “My Personal Page.”
+A paragraph (use the <p> tag) introducing yourself and describing your interests.
+Requirements:
+Use the standard HTML structure explained earlier (including the <!DOCTYPE html> declaration).
+Add appropriate content within the <body> section.
+Save the file and open it in a web browser to verify that everything displays correctly.
+
+bonus(not a must, just something to challange you. i.e if you are up for the challange)
+create A heading (use the <h1> tag) with the title “This is italics” the text should be in italics form.

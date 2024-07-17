@@ -71,4 +71,4 @@ example below.
 * End tag - also called ***ending a tag ***. e.g </p>
 * 
 
-we just covered the structure of a basic HTML page. Please memorize them. You will need it everytime you try to build a website
+we just covered the structure of a basic HTML page. Please memorize them. You will need it everytime you try to build a website. Head to the assignment folder and attempt all (the bonus section is not a must but the rest are)
