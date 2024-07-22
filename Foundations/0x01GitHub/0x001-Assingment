@@ -4,7 +4,7 @@ Add a Readme file at the root of the Repo
 Your Readme file must contain the content "Learning Software Foundations at CodeBadger"
 Now create a folder(directory) called Foundations
 Inside this folder, create a readme file called 0x0-course_Overview.md
-paste this link (https://1drv.ms/p/s!ArIZeUiOmupKgziIB8BIG04gpggr?e=NdpLpW) in the course overview file
+paste this link (https://1drv.ms/p/s!ArIZeUiOmupKgziIB8BIG04gpggr?e=NdpLpW) in the 0x0-course_Overview.md file
 Inside The Foundations Folder create another folder called 0x00GitHub
 Inside the 0x00GitHub create a Readme file. The Readme file should contain the content of the Readme of this 
 particular folder in this repo. (As specified In class) You will notice the text are not written like this one. It is called
