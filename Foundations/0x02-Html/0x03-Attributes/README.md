@@ -1,6 +1,5 @@
 ## HTML Attributes
- are used to add more
-information to an HTML Element.
+ HTML attributes are special words used inside the opening tag of an HTML element to control the element's behavior or provide additional information about the element. Attributes come in name/value pairs, where the name is the attribute name and the value is the attribute value, enclosed in double or single quotes
 
 ### Important Things to Remember
 * HTML attributes are found in HTML tags.
