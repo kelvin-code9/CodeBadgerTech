@@ -29,7 +29,7 @@ throughout the entire tutorial.
 In this lesson we are going to learn some HTML
 Attributes with examples.
 
-### we have a lot if attributes but we will be picking them bit by bit
+### we have a lot of attributes but we will be picking them bit by bit
 
 * Attribute lang:
 ```
