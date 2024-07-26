@@ -5,9 +5,7 @@
 * Investigate the function of the contenteditable attribute in HTML.
   Understand how it can be used to make elements editable directly in the  browser.
 
-* Create an HTML Page:
- 
- Create a new HTML file named contenteditable.html.
+* Create a new HTML file named contenteditable.html.
  This page should include a text with the content "You can edit me".
  Style this text to be blue and set its font size to 25px.
  Ensure the text is editable using the contenteditable attribute.
