@@ -32,7 +32,7 @@ copy and paste on your code editor and see how it works
 <p style="color: yellow;"> this color is yellow</p>
 ```
 
-copy and oaste on ur editor to see how it works
+copy and paste on ur editor to see how it works
 
 ### Text Font-Family Example:
 
@@ -47,4 +47,12 @@ copy and paste on your editor and see how the text style becomes different from 
 <p style="font-size: 18px"> font size is 18px </p>
 ```
 
-copy and paste on your browser, you eill notice the difference in size
+copy and paste on your browser, you will notice the difference in size
+
+### In summary we have covered
+* background-color
+* font-size
+* font-family
+* color
+
+you should know these concept like the back of your hand before our next class.
