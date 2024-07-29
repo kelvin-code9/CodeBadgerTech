@@ -14,7 +14,8 @@ development.
 
 ## Standard Structure Of HTML PAGE
 
-```<! DOCTYPE html>
+```
+<! DOCTYPE html>
 <html>
 <head>
 <title> Hello World! </title>
