@@ -1,0 +1,23 @@
+### HTML Assignment: Build a Clothing Shop Website
+
+Objective:
+Create a file called fashion-brand.html in this folder, inside create a simple, yet functional, website for a clothing shop using HTML. The site should include nav links such as a home, about, product contact, and a table showcasing products with their details.
+
+Requirements:
+
+* Title: The page should have a title related to your clothing shop.
+* nav links: Include a nav section with the shop’s name and a navigation menu  ( Home, about, Products, Contact).
+
+* Main Content:
+A brief introduction to the shop.
+An attractive banner or hero image representing the clothing shop.
+
+* Add an HTML table that lists products with the following columns:
+- Name of Product: The name of each clothing item.
+- Description: A brief description of the product.
+- Price: The price of the product.
+- Image: An image representing the product.
+
+* Footer: Include a footer with basic contact information or social media links.
+
+there should be at least 10 products with diffrent images on the table.
