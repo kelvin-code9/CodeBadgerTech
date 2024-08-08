@@ -32,6 +32,7 @@
         background-color: aqua;
         border: 1px solid green;
         cursor: pointer;
+        
       }
     </style>
   </head>
@@ -50,13 +51,13 @@
      
        <form>
         <label for="firstName">First Name</label>
-        <input type="text" id="firstName"> <br>
+        <input type="text" id="firstName" placeholder="first name" required> <br>
 
         <label for="lastName">Last name</label>
-        <input type="text"> <br>
+        <input type="text" placeholder="last name"> <br>
 
         <label for="email"> Email</label>
-        <input type="email"> <br>
+        <input type="email" placeholder="email"> <br>
 
         <label for="male">male</label>
         <input type="radio" id="male" name="gender" value="male">
@@ -64,6 +65,17 @@
         <label for="female">female</label>
         <input type="radio" id="female" name="gender" value="female"> <br>
 
+        <p>Hobbies:</p>
+        <input type="checkbox" id="reading" name="hobbies" value="reading">
+        <label for="reading">Reading</label><br>
+        <input type="checkbox" id="traveling" name="hobbies" value="traveling">
+        <label for="traveling">Traveling</label> <br>
+        <input type="checkbox" id="eating" name="eating" value="eating">
+        <label for="traveling">Traveling</label> <br>
+
+        <label for="message">Message</label><br>
+        <textarea rows="5" cols="20" name="message" id="message"></textarea> <br>
+        
         <button type="reset">reset</button>
         <button type="submit">submit</button>
        </form>
