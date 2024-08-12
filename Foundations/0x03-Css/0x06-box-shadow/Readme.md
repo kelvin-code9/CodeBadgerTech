@@ -81,8 +81,6 @@ box-shadow: 5px 10px 15px 0px rgba(0, 0, 0, 0.5);
 box-shadow: inset 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
 ```
 
-```
-
 ## Conclusion
 
 The `box-shadow` property is a versatile tool for adding depth and dimension to your web designs. Whether you're creating subtle shadows to lift elements off the page or dramatic inset shadows for a recessed look, mastering `box-shadow` opens up many creative possibilities in CSS.
