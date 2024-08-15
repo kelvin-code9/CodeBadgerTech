@@ -107,15 +107,9 @@ CSS provides a variety of properties to style and manipulate text. These propert
   ```
 
 ## 14. **`text-shadow`**
-- **Description:** Adds shadow to the text. You can specify multiple shadows by separating them with commas.
-- **Values:**
-  - **`h-offset`**: Horizontal offset of the shadow.
-  - **`v-offset`**: Vertical offset of the shadow.
-  - **`blur-radius`** (optional): The blur radius of the shadow.
-  - **`color`**: The color of the shadow.
   
   ```css
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
   ```
 
 ### Example:
