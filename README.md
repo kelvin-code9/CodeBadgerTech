@@ -11,3 +11,6 @@ then you will redirect to
 https://staging-my.realdevsquad.com/profile/-new-signup
 here remove profile and fill firstName and lastName
 then follow the steps mention over issue ticket
+
+
+https://github.com/Real-Dev-Squad/website-api-contracts/tree/main/users
