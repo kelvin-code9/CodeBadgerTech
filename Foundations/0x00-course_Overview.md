@@ -77,3 +77,86 @@ The southern soldiers drew their swords and they charged towards the direction w
 
 "And I intend to do just that," Balthazar replied, his eyes burning with fury as he and his entourage stormed out of the castle.
 
+
+
+
+Williams rode on his white horse for a couple of days. Though he did not have the head of Edward as the king had requested, but he felt confident that Balthazar would listen to reason and understand his explanation.
+
+As Williams approached, he saw the impressive sight of King Balthazar's chariot. The chariot was grand and imposing, adorned with intricate designs and gilded details that showcased the king's wealth and power. It stood out prominently among the fleet.
+
+Soldiers marched in disciplined formations both ahead of and behind the chariot, their armor glinting in the sunlight. The rhythmic sound of their marching feet created an air of solemnity and order. The soldiers in front cleared the path and announced the king's presence, while those behind formed a protective phalanx, ensuring the king's safety and command.
+
+Williams hopped down his horse, and walked towards the window of the chariot. King Balthazar slides open his window, looking at Williams with eyes that roared "I would not be surprised if you failed"
+
+Well? I see no head" Balthazar's voice dripped with scorn as he spoke. His eyes narrowed, and his lips curled into a sneer.
+
+"You majesty, I deeply regret not being able to bring back his head. I underestimated him and he bested us. At your command I would take four  men and go ahead once more and this time I will not fail"
+
+"You will fail a thousand times even if I give you my whole army. You need four men? how many did I give you when you left?"
+
+"Three Your majesty" Williams quickly replied.
+
+"I gave you three men, three standing men, to bring back the head of one. You failed, and now you come back to me, speaking of regrets as though it were a balm for failure. Don't you find it amusing? you left with three men, they lost their heads, you came back with buries on your mouth and now you seek four men. So are you saying you lost to a man who cannot even use any element  because you were  one man short?"
+
+"No your majesty. it was....."
+
+"Oh shut up" King Balthazar cuts in very fiercely. "Your stupid failure will make him get to the capital a day before us. That's plenty of time to flee and warn the others. If I had asked Edward to bring back your head, it would be in a sack before I would be able to say the word dig. Its quite a shame to lose a man like him, its the good ones that always end up in the wrong side of the sword, I wonder why the bad ones like yourself are left out."
+
+"I thought you could fill the shoes of Edward, but that would not be possible since they are too heavy to carry"
+
+"Your majesty, no, I can do this," Williams replied, his voice steady despite the harsh reprimand
+
+"Oh silence" Balthazar roared. "I would rather let maggots eat me alive than let you be my hand. As a matter of fact, from this day onwards you are no longer a member of the kings guard."
+
+"You" Balthazar called loudly, pointing to one of is soldiers carrying the kingdoms flag. "Hand him the banner you hold. He is nothing more than a mere a soldier"
+
+The soldier quickly placed the flags in Williams hands. "Here you go dog. March with your feet, your days of horses are over" The soldier whispered as he handed the flag to Williams
+
+As the flag was thrust into his hands, anger surged through Williams, filling his heart with a burning fury. His jaw clenched, and his knuckles turned white as he gripped the banner tightly. The humiliation of being stripped of his title and demoted to a mere soldier stung deeply. Balthazar's scornful words echoed in his mind, each one a dagger to his pride.
+
+Williams' mind raced with a mix of indignation and determination. He had always been loyal to the king, and this public shaming felt like a betrayal. The soldier's mocking words, "Here you go, dog..." only fueled the fire within him. 
+
+Despite the seething anger, Williams knew he had to control his emotions. He stood tall, holding the banner with a fierce resolve. This was not the end for him. He would prove his worth and regain his honor, no matter the cost.
+
+"Move faster, you sacks of bones!" Balthazar shouted, his voice filled with irritation. "Has the heat of the south made you all weak? March faster, and embrace the cold of the north! I have heads to take and a throne to ascend"
+
+
+Back in the south, Eldrin and Celestian Starforge stood alone in a grand hall. The room was vast and echoing, with high ceilings and ornate decorations that spoke of the kingdom's rich history. Eldrin absentmindedly rolled two marbles in his hand, the smooth stones clicking softly against each other. His expression was contemplative, eyes fixed on a distant point as he considered the weight of their situation.
+
+Celestian Starforge, equally regal and commanding, stood beside him, his arms crossed and his face set in a determined gaze.
+
+"Why do you like marbles so much Eldrin?" Celestian asked
+
+"A lot of people wonder why I always hold them. You could say its a bad habit. I just love the smooth touch of it, and those tiny sounds they make, sounds like music in my ears. But I do not believe you came back to these walls to talk about marbles"
+
+"Certainly not," Celestian quickly replied. "Your wife and child I've not seen them. One might almost believe you live alone."
+
+"Most kings build their chambers at the top of their castles, but I chose differently," Eldrin responded, a faint smile on his lips. "Like the rabbits, I built mine below. My wife is beneath this castle, where I know she's safe."
+
+"I do not think we care about each other so much that my families where about becomes a concern to you. Why are you really here?" Eldrin asked with a serious gaze
+
+"It is about the last meeting. What happened was not what we planned" Celestian returned the gaze
+
+"And what did we plan exactly?" Eldrin asked
+
+"You left a great deal of the details, but we certainly did not agree to letting Balthazar walk out with the title" Celestian quickly replied
+
+"He is not really the Godhead yet, he still has to...."
+
+"Has to what?" Celestian cuts in sharply. "Do you think killing those witches would be something Balthazar would not do? They worth nothing to him, we cannot even call them witches anymore more, no one has been able to use black magic for ages"
+
+"Certainly not, Killing those witches, is the very pit dogged for him, if he should fall in, the Godhead position will be out of reach for him.  For my plan to work, the witches have to get out of the way, they are a very big hindrance to me" Eldrin replied
+
+Celestian's face was decorated with confusion. "I am speechless. What do you want with the witches death?"
+
+"Many things king Celestian of the west, many things. The day the witches fall, That day will be the beginning of my rise. Have you ever heard of the Book of Yoko?"
+
+Celestian straightened, his eyes narrowing with sudden intensity. "Of course I have. What about it?" His voice carried a tone of cautious curiosity, the weight of the ancient tome's legend not lost on him.
+
+"Yoko, is the god the witches pray too. They stole something from this world using Yoko's power, what they stole is written in the book along side what to do  to get it back"
+
+"What did they steal? and even if what they stole was so powerful, the Yoko's book has not been seen by anyone" Celestian replied softly
+
+"You make me laugh," Eldrin said with a devilish smile. "The book has passed through many hands. As for what they stole, some call it Terror. To most, it is indeed terror, but to those who wield it, it is power."
+
+"I cannot tell you more than this my friend" Eldrin continues "But, Balthazar has to become the Godhead to lose it"
