@@ -8,14 +8,7 @@ Fahrenheit = (Celsius *9/5) + 32
 Print the Celsius temperature and the equivalent Fahrenheit temperature in a single sentence.
 
 #### Example:
-```javascript
-let celsius = 25;
-let fahrenheit = (celsius * 9/5) + 32;
-console.log(celsius + "°C is equal to " + fahrenheit + "°F.");
-```
 
-#### Output:
-```
 25°C is equal to 77°F.
 ```
 
