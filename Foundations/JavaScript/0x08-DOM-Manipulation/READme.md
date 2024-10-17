@@ -160,3 +160,211 @@ button.addEventListener('click', function() {
    - Create a button that shows or hides a specific `<div>` on the page when clicked.
 
 ---
+
+Great! Let's move on to **`querySelector()`**, which is another very useful method in the DOM that allows for more flexibility in selecting elements. Here's a breakdown of how it works.
+
+---
+
+### Lesson 2: **`querySelector()` and `querySelectorAll()`**
+
+#### What is `querySelector()`?
+
+The **`querySelector()`** method allows you to select **the first element** that matches a specified CSS selector. This gives you a lot of flexibility because you can select elements by `id`, `class`, tag name, or even more complex CSS selectors like attribute selectors, pseudo-classes, etc.
+
+- **`querySelector()`**: Selects the **first** element that matches the CSS selector.
+- **`querySelectorAll()`**: Selects **all** elements that match the CSS selector and returns a NodeList (which can be looped through).
+
+#### **Syntax**:
+```javascript
+document.querySelector('CSS selector');
+```
+
+Here, `'CSS selector'` refers to any valid CSS selector, such as `#id`, `.class`, or `tag`.
+
+---
+
+### **Examples of Using `querySelector()`**
+
+##### **Example 1: Selecting by Class**
+
+**Objective**: Select an element by its class using `querySelector()`.
+
+**HTML**:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select by Class Example</title>
+</head>
+<body>
+    <p class="myClass">This is a paragraph with a class.</p>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+**JavaScript (script.js)**:
+```javascript
+// Select the first element with class "myClass"
+let paragraph = document.querySelector('.myClass');
+
+// Change its text content
+paragraph.textContent = 'Text has been changed using querySelector!';
+```
+
+**Explanation**: The `querySelector('.myClass')` selects the first element with the class `myClass`, and then we change its content using `textContent`.
+
+---
+
+##### **Example 2: Selecting by Tag Name**
+
+**Objective**: Select an element by its tag name.
+
+**HTML**:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select by Tag Example</title>
+</head>
+<body>
+    <h1>This is a heading</h1>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+**JavaScript (script.js)**:
+```javascript
+// Select the first <h1> tag
+let heading = document.querySelector('h1');
+
+// Change the heading color
+heading.style.color = 'red';
+```
+
+**Explanation**: The `querySelector('h1')` selects the first `<h1>` tag and changes its color to red.
+
+---
+
+##### **Example 3: Selecting by ID (Alternative to `getElementById()`)**
+
+**Objective**: Select an element by its `id` using `querySelector()`.
+
+**HTML**:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select by ID Example</title>
+</head>
+<body>
+    <div id="uniqueDiv">This is a div with an ID.</div>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+**JavaScript (script.js)**:
+```javascript
+// Select the element with ID "uniqueDiv"
+let divElement = document.querySelector('#uniqueDiv');
+
+// Change its background color
+divElement.style.backgroundColor = 'yellow';
+```
+
+**Explanation**: While `getElementById()` can be used to select by ID, you can also use `querySelector('#id')` to achieve the same result, selecting the element with `id="uniqueDiv"`.
+
+---
+
+##### **Example 4: Selecting by Attribute**
+
+**Objective**: Select an element using an attribute selector.
+
+**HTML**:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select by Attribute Example</title>
+</head>
+<body>
+    <input type="text" name="username" value="John">
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+**JavaScript (script.js)**:
+```javascript
+// Select the input element with a "name" attribute of "username"
+let inputElement = document.querySelector('input[name="username"]');
+
+// Change the value of the input field
+inputElement.value = 'Jane';
+```
+
+**Explanation**: The `querySelector('input[name="username"]')` selects the `<input>` element with the `name="username"` attribute and changes its value to "Jane".
+
+---
+
+### **`querySelectorAll()` – Selecting Multiple Elements**
+
+If you want to select **all** elements that match a selector (not just the first one), you can use `querySelectorAll()`. This returns a **NodeList** (similar to an array) that you can loop through.
+
+##### **Example 5: Selecting Multiple Elements**
+
+**Objective**: Select all `<p>` elements and change their content.
+
+**HTML**:
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Select Multiple Elements Example</title>
+</head>
+<body>
+    <p>This is the first paragraph.</p>
+    <p>This is the second paragraph.</p>
+    <p>This is the third paragraph.</p>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+**JavaScript (script.js)**:
+```javascript
+// Select all <p> elements
+let paragraphs = document.querySelectorAll('p');
+
+// Loop through the NodeList and change the text content of each <p>
+paragraphs.forEach((p, index) => {
+    p.textContent = `This is paragraph ${index + 1}`;
+});
+```
+
+**Explanation**: `querySelectorAll('p')` selects all `<p>` elements on the page. Then, using `forEach()`, we loop through each element and update its content.
+
+---
+
+#### **Key Differences Between `querySelector()` and `querySelectorAll()`**:
+- **`querySelector()`**: Returns the **first matching element**.
+- **`querySelectorAll()`**: Returns **all matching elements** as a NodeList, which you can loop through.
+
+---
+
+### **Practice Questions:**
+
+1. **Basic Class Selection**:
+   - Create an HTML page with multiple paragraphs and use `querySelector()` to select a specific paragraph by its class and change its color.
+
+2. **Multiple Element Selection**:
+   - Use `querySelectorAll()` to select all `<div>` elements on the page and change their background color.
+
+3. **Selecting by Attribute**:
+   - Create an HTML form with different `input` fields. Use `querySelector()` to select an input by its `name` attribute and change its value.
+
+---
+
+This should give you a strong understanding of how to use `querySelector()` and `querySelectorAll()` to access elements on a webpage!
