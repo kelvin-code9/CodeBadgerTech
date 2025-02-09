@@ -4,17 +4,17 @@ An **HTML element** consists of a start tag, content, and an end tag, which toge
 
 For example, the `<p>` element, used for paragraphs, includes an opening tag, content (text), and a closing tag.  
 
-![HTML Element Structure](../images/elements.png)
+![HTML Element Structure](../images/elements.png)  
 
 ## Syntax  
 ```html
 <tagname> Your Content... </tagname>
-```
+```  
 
-## HTML Element Code Example
-In this example, ```<p>``` is the opening tag, ```</p>``` is the closing tag, and the text inside forms the content of the element.
+## HTML Element Code Example  
+In this example, `<p>` is the opening tag, `</p>` is the closing tag, and the text inside forms the content of the element.  
 
-```
+```html
 <!-- HTML code to illustrate HTML elements -->
 <!DOCTYPE html>
 <html>
@@ -24,19 +24,19 @@ In this example, ```<p>``` is the opening tag, ```</p>``` is the closing tag, an
 </head>
 
 <body>
-    <p>Welcome to GeeksforGeeks!</p>
+    <p>Welcome to CodebadgerTech!</p>
 </body>
 
 </html>
-```
+```  
 
 # Table of Contents  
 
-1. **Key Points About HTML Elements**  
-2. **Nested HTML Elements**  
-3. **Self-Closing (Empty) Elements**  
-4. **Block-Level vs. Inline Elements**  
-5. **Best Practices for Using HTML Elements**  
+1. [**Key Points About HTML Elements**](#key-points-about-html-elements)  
+2. [**Nested HTML Elements**](#nested-html-elements)  
+3. [**Self-Closing (Empty) Elements**](#self-closing-empty-elements)  
+4. [**Block-Level vs. Inline Elements**](#block-level-vs-inline-elements)  
+5. [**Best Practices for Using HTML Elements**](#best-practices-for-using-html-elements)  
 
 # Key Points About HTML Elements  
 
@@ -68,12 +68,12 @@ In the following example, the `<html>` tag contains both the `<head>` and `<body
 </head>
 
 <body style="text-align: center">
-    <h1>CodebagerTech</h1>
-    <p>Computer programing</p>
+    <h1>CodebadgerTech</h1>
+    <p>Computer programming</p>
 </body>
 
 </html>
-```
+```  
 
 # Self-Closing (Empty) Elements  
 
@@ -105,7 +105,7 @@ In the following example, the `<br>` tag does not display any content but acts a
 </body>
 
 </html>
-```
+```  
 
 # Block-Level vs. Inline Elements  
 
@@ -130,7 +130,7 @@ Block-level elements typically **start on a new line** and take up the **full wi
   - `<aside>`  
   - `<header>`  
   - `<footer>`  
- 
+
 ## 2. Inline Elements  
 
 Inline elements **do not start on a new line**; instead, they appear on the **same line** as adjacent content, as long as there is space. They only take up as much width as their content requires. Inline elements are typically used within block-level elements to add content or style.  
@@ -165,4 +165,4 @@ Avoid unnecessary complexity in your HTML structure:
 - Use **the simplest possible elements** to achieve the desired layout.  
 - Avoid excessive `<div>` and `<span>` usage when a more **semantic** element is available.  
 - Keep **clean, well-indented code** for better maintainability.  
-
+```  
