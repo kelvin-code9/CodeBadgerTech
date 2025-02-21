@@ -161,12 +161,15 @@ The `width` and `height` attributes define the dimensions of an image in pixels.
     <title>Width and Height</title>
 </head>
 <body>
-    <img src="https://media.codebadgertech.org/wp-content/cdn-uploads/Geek_logi_-low_res.png"
+    <img src="https://www.codebadgertech.com/images/2.svg"
          width="300px"
          height="100px">
 </body>
 </html>
 ```
+### OUTPUT
+![image](https://github.com/user-attachments/assets/bdc0978d-f7fb-4d53-a0e1-2488ab78562e)
+
 
 ## 5. HTML title Attribute
 The `title` attribute provides additional information about an element. The tooltip appears when the user hovers over it.
