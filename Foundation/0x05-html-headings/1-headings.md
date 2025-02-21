@@ -22,7 +22,19 @@ HTML headings are used to define titles and subtitles on a webpage. They help st
 </html>
 ```
 
-This example uses heading tags (`<h1>` to `<h6>`) to structure content from the most important (largest) to the least important (smallest). Each level represents the content hierarchy, ensuring a well-organized page.  
+This example uses heading tags (`<h1>` to `<h6>`) to structure content from the most important (largest) to the least important (smallest). Each level represents the content hierarchy, ensuring a well-organized page.
+
+### OUTPUT
+<html>
+<body>
+    <h1>Main Heading</h1>
+    <h2>Subheading</h2>
+    <h3>Smaller Subheading</h3>
+    <h4>Sub-Subheading</h4>
+    <h5>Minor Subheading</h5>
+    <h6>Smallest Heading</h6>
+</body>
+</html>
 
 **Note:** The **"h"** in the heading tag should always be lowercase (e.g., `<h1>`, not `<H1>`).  
 
