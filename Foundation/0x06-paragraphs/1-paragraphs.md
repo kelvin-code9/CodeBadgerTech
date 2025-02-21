@@ -183,21 +183,10 @@ Although the `align` attribute was previously used to align text inside a paragr
 ### **Output:**  
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML paragraph</title>
-</head>
-<body>
-    <p align="center">Welcome Folks</p>
-    <p align="left">A Computer Science portal for coders.</p>
-    <p align="right">It contains well-written, well-thought-out articles.</p>
-</body>
-</html>
+![image](https://github.com/user-attachments/assets/71be8861-d69c-41d5-81e1-8880b1fadcd6)
 
 
+---
 ### **Modern Alternative (Using CSS):**  
 ```html
 <p style="text-align: center;">Welcome Folks</p>
