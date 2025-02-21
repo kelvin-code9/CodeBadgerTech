@@ -203,6 +203,9 @@ The `href` attribute, used in `<a>` tags, specifies the URL a link navigates to.
 </body>
 </html>
 ```
+### OUTPUT
+![image](https://github.com/user-attachments/assets/9e8245ff-d93c-4472-a1ca-8f6f6042bd21)
+
 
 
 ### Important Points About HTML Attributes
