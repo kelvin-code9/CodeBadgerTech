@@ -150,13 +150,7 @@ The `<hr>` tag creates a horizontal line to visually separate sections of a webp
 
 ### **Output:**  
 
-**Welcome to My Website**  
-
-CodeBadger is a leading Organization that provides computer science resources and coding challenges. 
-
-*— (Horizontal Line) —*  
-
-This platform helps developers improve their programming skills through interactive problems.  
+![image](https://github.com/user-attachments/assets/a4a52ecb-de45-411a-b4f1-ab77f42c273c)
 
 ---
 
