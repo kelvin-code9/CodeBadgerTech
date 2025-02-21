@@ -47,23 +47,8 @@ Use the `#idname` **selector** in CSS to style a specific element.
 ```
 📌 The **`id="special-text"`** applies the CSS style **only to this element**.  
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>ID Attribute Example</title>
-    <style>
-        #special-text {
-            color: white;
-            background-color: red;
-            padding: 10px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <p id="special-text">This paragraph is uniquely styled.</p>
-</body>
-</html>
+![image](https://github.com/user-attachments/assets/10dc712d-0245-4e7c-8746-049f899ce11c)
+
 ---
 
 
