@@ -101,6 +101,8 @@ The following example demonstrates different style properties applied directly t
 </body>
 </html>
 ```
+### OUTPUT
+![image](https://github.com/user-attachments/assets/100284f3-0fcd-457b-a9ea-58cc47789d4c)
 
 ## 2. HTML id Attribute
 The `id` attribute assigns a unique identifier to an HTML element, making it easier to apply styles or manipulate it with JavaScript.
@@ -123,8 +125,6 @@ The example below demonstrates how to use the `id` attribute with CSS styling in
 </body>
 </html>
 ```
-
-![image](https://github.com/user-attachments/assets/100284f3-0fcd-457b-a9ea-58cc47789d4c)
 
 
 ## 3. HTML alt Attribute
