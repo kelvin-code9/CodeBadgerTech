@@ -124,6 +124,9 @@ The example below demonstrates how to use the `id` attribute with CSS styling in
 </html>
 ```
 
+![image](https://github.com/user-attachments/assets/100284f3-0fcd-457b-a9ea-58cc47789d4c)
+
+
 ## 3. HTML alt Attribute
 The `alt` attribute provides alternative text for an image in case it fails to load. This improves accessibility and SEO.
 
