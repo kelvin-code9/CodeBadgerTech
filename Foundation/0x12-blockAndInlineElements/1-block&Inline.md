@@ -41,19 +41,8 @@ HTML elements are categorized into **Block-level elements** and **Inline element
 ### **Output:**  
 📌 The `<h1>`, `<p>`, and `<div>` each start on a **new line** and take the full width of their container.  
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Block Elements Example</title>
-</head>
-<body>
-    <h1>This is a Block-Level Element</h1>
-    <p>This is a paragraph. It takes up the full width.</p>
-    <div style="background-color: lightgray; padding: 10px;">
-        This is inside a div block.
-    </div>
-</body>
-</html>
+![image](https://github.com/user-attachments/assets/e474741d-126e-4179-97c3-891e411c8691)
+
 
 ---
 
@@ -92,7 +81,7 @@ HTML elements are categorized into **Block-level elements** and **Inline element
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Inline Elements Example</title>
+    
 </head>
 <body>
     <p>This is a <strong>bold</strong> word inside a paragraph.</p>
