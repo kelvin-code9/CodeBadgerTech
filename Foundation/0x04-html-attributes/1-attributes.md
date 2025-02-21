@@ -125,6 +125,9 @@ The example below demonstrates how to use the `id` attribute with CSS styling in
 </body>
 </html>
 ```
+### OUTPUT
+![image](https://github.com/user-attachments/assets/8de4c234-6202-402c-adb0-cb9313144865)
+
 
 
 ## 3. HTML alt Attribute
