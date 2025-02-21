@@ -222,31 +222,8 @@ A bulleted list of grocery items.
 2. **Starting from 5** (custom numbering)  
 3. **Roman numeral styling**  
 
-<!DOCTYPE html>
-<html>
-<head>
-    
-</head>
-<body>
-    <h2>Ordered List Examples</h2>
-    <p>Reversed List:</p>
-    <ol reversed>
-        <li>JavaScript</li>
-        <li>CSS</li>
-        <li>HTML</li>
-    </ol>
-    <p>Starting from 5:</p>
-    <ol start="5">
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-    </ol>
-    <p>Roman Numerals:</p>
-    <ol type="i">
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-    </ol>
+![image](https://github.com/user-attachments/assets/f645a733-22a6-40c3-ab97-c5cf90e92085)
+
 </body>
 </html>
 ---
