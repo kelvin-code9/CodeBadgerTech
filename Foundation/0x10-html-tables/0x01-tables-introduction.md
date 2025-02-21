@@ -199,33 +199,8 @@ table, th, td {
 </body>
 </html>
 ```
-### Output:
-A table with blue borders.
+![image](https://github.com/user-attachments/assets/ed9d6c75-13ad-45ea-b3f3-88b367269b6a)
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        table, th, td {
-            border: 1px solid blue;
-        }
-    </style>
-</head>
-<body>
-    <table>
-        <tr>
-            <th style="color: green">Firstname</th>
-            <th>Lastname</th>
-            <th>Age</th>
-        </tr>
-        <tr>
-            <td>Priya</td>
-            <td>Sharma</td>
-            <td>24</td>
-        </tr>
-    </table>
-</body>
-</html>
 
 ---
 
