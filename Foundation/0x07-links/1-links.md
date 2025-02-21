@@ -32,7 +32,7 @@ The following example creates a **clickable link** that redirects users to **Cod
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>HTML Links</title>
+   
 </head>
 <body>
     <p>Click the link below to visit CodeBadger:</p>
