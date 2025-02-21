@@ -111,7 +111,7 @@ You can create **clickable links** on various elements like images, email addres
 <h3>Send an Email</h3>
 <a href="mailto:support@codebadger.org">Contact Support</a>
 ```
-When send email is clicked, it taks you to your email app if you are on mobile
+When send send an email is link clicked, it takes you to your email app if you are on mobile
 ---
 
 ## **4. Adding Titles to Links**
