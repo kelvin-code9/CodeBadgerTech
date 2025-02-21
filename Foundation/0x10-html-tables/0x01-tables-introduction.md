@@ -259,34 +259,7 @@ This guide covers the basics of HTML tables and styling techniques to make them 
 ### Output:
 A table inside another table.
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        table, th, td {
-            border: 1px solid blue;
-        }
-    </style>
-</head>
-<body>
-    <table border="1">
-        <tr>
-            <td>Outer Table</td>
-            <td>
-                <table border="1">
-                    <tr>
-                        <td>Inner Table Row 1</td>
-                    </tr>
-                    <tr>
-                        <td>Inner Table Row 2</td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-    </table>
-</body>
-</html>
-
+![image](https://github.com/user-attachments/assets/88ee0a09-370b-4a6e-88ce-60e429f2c4cc)
 
 ---
 
