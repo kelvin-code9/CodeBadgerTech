@@ -59,7 +59,7 @@ This code will display a **bulleted list of courses** and a **numbered list of d
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML Lists Example</title>
+    
 </head>
 <body>
     <h2>Welcome to CodeBadger Learning</h2>
@@ -225,7 +225,7 @@ A bulleted list of grocery items.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Ordered List Example</title>
+    
 </head>
 <body>
     <h2>Ordered List Examples</h2>
