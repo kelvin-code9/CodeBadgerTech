@@ -78,17 +78,8 @@ HTML elements are categorized into **Block-level elements** and **Inline element
 ### **Output:**  
 📌 The `<strong>`, `<em>`, and `<a>` elements appear **inside the text**, without breaking the line.  
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    
-</head>
-<body>
-    <p>This is a <strong>bold</strong> word inside a paragraph.</p>
-    <p>You can also <i>italicize</i> words.</p>
-    <p>Here is a <a href="#">link</a> inside a paragraph.</p>
-</body>
-</html>
+![image](https://github.com/user-attachments/assets/59592d75-2c85-4394-8366-246c8ddb2a1d)
+
 
 ---
 
