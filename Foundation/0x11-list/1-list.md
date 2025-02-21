@@ -65,7 +65,7 @@ This code will display a **bulleted list of courses** and a **numbered list of d
     <h2>Welcome to CodeBadger Learning</h2>
     <h3>Available Courses</h3>
     <ul>
-        <li>Data Structures & Algorithm</li>
+        <li style="color: grren">Data Structures & Algorithm</li>
         <li>Web Technology</li>
         <li>Aptitude & Logical Reasoning</li>
         <li>Programming Languages</li>
