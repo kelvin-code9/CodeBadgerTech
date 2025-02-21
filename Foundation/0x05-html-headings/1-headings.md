@@ -25,16 +25,8 @@ HTML headings are used to define titles and subtitles on a webpage. They help st
 This example uses heading tags (`<h1>` to `<h6>`) to structure content from the most important (largest) to the least important (smallest). Each level represents the content hierarchy, ensuring a well-organized page.
 
 ### OUTPUT
-<html>
-<body>
-    <h1>Main Heading</h1>
-    <h2>Subheading</h2>
-    <h3>Smaller Subheading</h3>
-    <h4>Sub-Subheading</h4>
-    <h5>Minor Subheading</h5>
-    <h6>Smallest Heading</h6>
-</body>
-</html>
+![image](https://github.com/user-attachments/assets/4a2fc5b4-30c4-49d0-95eb-313ba6aef2ae)
+
 
 **Note:** The **"h"** in the heading tag should always be lowercase (e.g., `<h1>`, not `<H1>`).  
 
@@ -83,7 +75,9 @@ You can modify heading styles using the **`style`** attribute in HTML.
 </html>
 ```
 
-In this example, the **`font-size`** property increases the size of the second `<h1>` heading to **50 pixels**.  
+In this example, the **`font-size`** property increases the size of the second `<h1>` heading to **50 pixels**. 
+---
+![image](https://github.com/user-attachments/assets/fbb425d4-0dbd-4652-a0e6-0eeed3228ef9)
 
 ### **Example: Changing Heading Color**  
 
@@ -108,6 +102,7 @@ In this example, the **`font-size`** property increases the size of the second `
 ```  
 
 In this example, the **`color`** property changes the text color of the second `<h1>` heading to **red**.
+![image](https://github.com/user-attachments/assets/4b60d384-756e-4428-b13d-ffd27501f32f)
 
 ---
 
