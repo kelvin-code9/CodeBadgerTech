@@ -146,6 +146,9 @@ The `alt` attribute provides alternative text for an image in case it fails to l
 </body>
 </html>
 ```
+### OUTPUT
+![image](https://github.com/user-attachments/assets/17d044db-6f89-4299-b931-9d0b23c9aef2)
+
 
 ## 4. HTML width and height Attribute
 The `width` and `height` attributes define the dimensions of an image in pixels.
