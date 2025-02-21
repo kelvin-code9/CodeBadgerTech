@@ -181,11 +181,7 @@ Different image file formats supported by browsers:
    - Improves **accessibility** for screen reader users.  
    - Acts as **anchor text** in text-only browsers.  
 
-3. **Make Images Responsive**  
-   - Use the `srcset` attribute for **different screen sizes**.  
-   - Helps in creating a **mobile-friendly website**.  
-
-4. **Maintain Aspect Ratios**  
+3. **Maintain Aspect Ratios**  
    - Avoid **distorting** images unless required.  
    - Ensures **good visual aesthetics**.  
 
