@@ -214,7 +214,7 @@ A table with blue borders.
 <body>
     <table>
         <tr>
-            <th>Firstname</th>
+            <th style="color: green">Firstname</th>
             <th>Lastname</th>
             <th>Age</th>
         </tr>
