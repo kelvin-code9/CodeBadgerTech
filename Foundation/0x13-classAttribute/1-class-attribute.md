@@ -50,25 +50,7 @@ The `class` attribute is used to **group** multiple HTML elements and apply **CS
 </html>
 ```
 📌 All elements with the **class `highlight`** get the **same styling**.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Class Attribute Example</title>
-    <style>
-        .highlight {
-            color: white;
-            background-color: blue;
-            padding: 10px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <p class="highlight">This paragraph is highlighted.</p>
-    <p>This paragraph is normal.</p>
-    <div class="highlight">This div is also highlighted.</div>
-</body>
-</html>
+![image](https://github.com/user-attachments/assets/7002ab80-82ca-46da-b633-abe7a35e1b91)
 
 ---
 
