@@ -12,7 +12,7 @@ Syntax:
 Code Example of Using HTML Attributes
 This HTML code demonstrates the use of the src attribute within the <img> tag to display an image.
 
-```
+```html
 <!DOCTYPE html>
 <html>
 
