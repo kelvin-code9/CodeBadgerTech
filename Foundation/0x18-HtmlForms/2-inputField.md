@@ -24,6 +24,9 @@ The `<input>` tag creates an interactive field where users can enter data. Since
 </html>
 ```
 
+![image](https://github.com/user-attachments/assets/404e6383-8be6-4caf-9aa6-085730c623d3)
+
+
 ### Explanation:
 - The `<label>` tag improves accessibility by associating text with the input field.
 - The `<input>` element of type `text` creates a single-line text input.
@@ -90,6 +93,8 @@ HTML provides a variety of input types for different needs. Here are some of the
 </html>
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/c9e674ad-5505-4b4d-9f6d-ba51b33cdfce)
+
 
 ### Why is This Useful?
 - A `password` type input masks the characters for security.
