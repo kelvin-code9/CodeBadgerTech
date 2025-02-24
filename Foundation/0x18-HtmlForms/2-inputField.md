@@ -23,6 +23,7 @@ The `<input>` tag creates an interactive field where users can enter data. Since
 </body>
 </html>
 ```
+
 ### Explanation:
 - The `<label>` tag improves accessibility by associating text with the input field.
 - The `<input>` element of type `text` creates a single-line text input.
@@ -72,8 +73,8 @@ HTML provides a variety of input types for different needs. Here are some of the
 <html>
 <head>
     <style>
-        input[type="password"] {
-            border: 2px solid #4CAF50;
+        input {
+            border: 2px solid green;
             border-radius: 4px;
             padding: 10px;
             width: 200px;
@@ -88,6 +89,8 @@ HTML provides a variety of input types for different needs. Here are some of the
 </body>
 </html>
 ```
+## OUTPUT
+
 ### Why is This Useful?
 - A `password` type input masks the characters for security.
 - Custom styles improve the input field’s appearance.
@@ -114,6 +117,10 @@ HTML provides a variety of input types for different needs. Here are some of the
 </body>
 </html>
 ```
+
+## OUTPUT
+![image](https://github.com/user-attachments/assets/13f5d520-3730-41d5-a8c5-a6179e7028d3)
+
 ### Why is This Useful?
 - The `email` type ensures users enter a valid email address.
 - The `placeholder` helps guide users on the correct format.
