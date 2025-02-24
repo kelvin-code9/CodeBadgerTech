@@ -28,7 +28,8 @@ The `<form>` tag is used to create an HTML form for user input. It acts as a con
 ```
 
 ## OUTPUT
-ddhdhfhf
+![image](https://github.com/user-attachments/assets/45d386b9-bc0a-4f38-a3e1-f88a8797099f)
+
 
 ### Common Form Elements
 Here are some commonly used form elements in HTML:
@@ -81,6 +82,9 @@ This example demonstrates how to create a gender selection form using radio butt
 </body>
 </html>
 ```
+## OUTPUT
+![image](https://github.com/user-attachments/assets/29f00bfc-4ab2-475b-b59b-089dfa758d81)
+
 
 ### Example: Form with Checkboxes
 The following form lets users select their interests using checkboxes and submit their choices.
@@ -109,5 +113,9 @@ The following form lets users select their interests using checkboxes and submit
 </body>
 </html>
 ```
+
+### OUTPUT
+![image](https://github.com/user-attachments/assets/de23ff34-7b13-43fb-afe2-89e600e2ab80)
+
 
 This guide provides a beginner-friendly introduction to HTML forms. Understanding these elements and attributes will help in designing user-friendly and functional web forms
