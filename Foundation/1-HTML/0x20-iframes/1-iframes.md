@@ -117,3 +117,49 @@ Create a webpage that:
 
 </html>
 ```
+
+###OUTPUT
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Iframes</title>
+    <style>
+        body {
+            font-size: 18px;
+            color: #333;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h1 {
+            color: #007BFF;
+        }
+
+        iframe {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Understanding HTML Iframes</h1>
+    <p>An iframe allows us to embed other web pages, videos, or maps into our own page.</p>
+
+    <h2>Google Maps Example</h2>
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.835434509197!2d144.96305771531686!3d-37.81627974202162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0xf4cbae3e4b2a341b!2sMelbourne%2C%20Australia!5e0!3m2!1sen!2sus!4v1605706101601!5m2!1sen!2sus"
+        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
+    </iframe>
+
+    <h2>Embedded YouTube Video</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=WUnXiW39O7o_Se9w"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+</body>
+
+</html>
