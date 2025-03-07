@@ -1,7 +1,3 @@
-Here's a more detailed and beginner-friendly expansion of your CSS Selectors tutorial, including **Class and ID selectors** with full examples. 🚀  
-
----
-
 # **CSS Tutorial: Selectors**  
 
 CSS selectors are used to target HTML elements and apply styles to them. Selectors help define which elements a style rule should be applied to.  
