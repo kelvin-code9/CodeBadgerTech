@@ -11,8 +11,7 @@ Use **class selectors** to highlight specific words or sentences.
 2. Create a `styles.css` file and:  
    - Change the **background color** of the highlighted text.  
    - Use **bold** and **italic styles** for emphasis.  
-   - Experiment with **different font styles**.  
-
+   - Experiment with **different font styles**.  (not familiar with how to make use of? `bold, italics` search 🔍 it on  Google. thats why you are a software engineer 
 ---
 
 Hint: Search How `<span>` tag works 
