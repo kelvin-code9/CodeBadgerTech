@@ -1,8 +1,20 @@
-Here's a more detailed and beginner-friendly expansion of your CSS Selectors tutorial, including **Class and ID selectors** with full examples. 🚀  
-
----
-
 # **CSS Tutorial: Selectors**  
+
+## Note, All styles should be applied in the head tag for this section
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selectors Example</title>
+   <style> 
+        h1 {
+          color: green;
+        }
+   </style>
+</head>
+```
 
 CSS selectors are used to target HTML elements and apply styles to them. Selectors help define which elements a style rule should be applied to.  
 
@@ -124,7 +136,35 @@ This example demonstrates **Universal, Element, Class, and ID selectors** in a c
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSS Selectors Example</title>
-    <link rel="stylesheet" href="styles.css">
+    <style> 
+                /* Universal Selector: Applies to all elements */
+        * {
+            margin: 0;
+            padding: 0;
+            background-color: lightgray;
+        }
+
+        /* Element Selector: Applies to all <p> elements */
+        p {
+            font-size: 18px;
+            color: black;
+        }
+
+        /* ID Selector: Targets only the element with ID "main-heading" */
+        #main-heading {
+            color: darkgreen;
+            text-align: center;
+            font-size: 30px;
+        }
+
+        /* Class Selector: Applies to elements with class "highlight" */
+        .highlight {
+            color: white;
+            background-color: orange;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
 
@@ -140,36 +180,6 @@ This example demonstrates **Universal, Element, Class, and ID selectors** in a c
 </html>
 ```
 
-### **CSS File (`styles.css`):**
-```css
-/* Universal Selector: Applies to all elements */
-* {
-    margin: 0;
-    padding: 0;
-    background-color: lightgray;
-}
-
-/* Element Selector: Applies to all <p> elements */
-p {
-    font-size: 18px;
-    color: black;
-}
-
-/* ID Selector: Targets only the element with ID "main-heading" */
-#main-heading {
-    color: darkgreen;
-    text-align: center;
-    font-size: 30px;
-}
-
-/* Class Selector: Applies to elements with class "highlight" */
-.highlight {
-    color: white;
-    background-color: orange;
-    padding: 10px;
-    border-radius: 5px;
-}
-```
 ### output
 ![alt text](image-1.png)
 ---

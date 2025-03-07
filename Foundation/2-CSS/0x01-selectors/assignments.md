@@ -1,0 +1,1 @@
+### Assignments for this section will be found in the next module `0x02-HowToLinkCss`. The information in the next module is important and needed to slove the selector related assignments
