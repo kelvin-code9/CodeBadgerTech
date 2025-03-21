@@ -7,4 +7,4 @@
 You can write your own text, you do not need to type mine becuase its too long. the pattern should just be same. 
 e.g In your heading you can go something like `Tinibu wants to kill us all in This country`
 ### expected OUTPUT
-![alt text](image.png) 
+![alt text](image/image4.png) 
