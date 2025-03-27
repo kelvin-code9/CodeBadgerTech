@@ -1,5 +1,58 @@
-i {
-    font-size: 24px;
-    color: #333;
-    margin-right: 10px;
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+
+/* Header Styling */
+h1 {
+    color: #ff5733;
+}
+
+/* Navigation Links */
+nav {
+    margin: 10px 0;
+}
+nav a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    margin: 0 15px;
+}
+nav a:hover {
+    color: #ff5733;
+}
+
+/* Table Styling */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-size: 18px;
+    background-color: white;
+}
+
+/* Table Headers */
+th {
+    background-color: #007bff;
+    color: white;
+    padding: 12px;
+}
+
+/* Table Data */
+td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+/* Alternating Row Colors */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Hover Effect */
+tr:hover {
+    background-color: #cce5ff;
 }
