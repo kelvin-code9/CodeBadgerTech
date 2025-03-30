@@ -1,28 +1,28 @@
-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: black;
-    padding: 10px 0;
-    text-align: center;
+.container {
+    position: relative;
 }
 
-/* Style the links */
-nav a {
-    color: white;
-    text-decoration: none;
-    margin: 15px;
-    font-size: 18px;
+.black-box {
+    position: relative;
+    border: 2px solid black;
+    height: 100px;
+    margin: 30px;
 }
 
-/* Different colors for each link */
-nav a:nth-child(1) { color: red; }
-nav a:nth-child(2) { color: blue; }
-nav a:nth-child(3) { color: green; }
-nav a:nth-child(4) { color: yellow; }
+.gray-box {
+    position: absolute;
+    background: lightgray;
+    height: 60px;
+    width: 70%;
+    left: 50px;
+    top: 50px;
+}
 
-/* Add space so content is visible below navbar */
-.content {
-    margin-top: 50px;
+.green-box {
+    position: absolute;
+    background: lightgreen;
+    width: 35%;
+    left: 270px;
+    top: -15px;
+    height: 100px;
 }
