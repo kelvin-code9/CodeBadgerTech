@@ -1,0 +1,8 @@
+/* Responsive Centered Div */
+.responsive-box {
+    width: 80%; /* Takes 80% of the screen width */
+    max-width: 800px; /* Will not exceed 800px */
+    margin: auto;
+    background-color: lightskyblue;
+    padding: 20px;
+}
