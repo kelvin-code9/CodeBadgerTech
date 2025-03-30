@@ -1,8 +1,28 @@
-/* Responsive Centered Div */
-.responsive-box {
-    width: 80%; /* Takes 80% of the screen width */
-    max-width: 800px; /* Will not exceed 800px */
-    margin: auto;
-    background-color: lightskyblue;
-    padding: 20px;
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Style the links */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
+
+/* Different colors for each link */
+nav a:nth-child(1) { color: red; }
+nav a:nth-child(2) { color: blue; }
+nav a:nth-child(3) { color: green; }
+nav a:nth-child(4) { color: yellow; }
+
+/* Add space so content is visible below navbar */
+.content {
+    margin-top: 50px;
 }
