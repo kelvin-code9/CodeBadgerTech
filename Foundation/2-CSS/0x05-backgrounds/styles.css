@@ -1,28 +1,10 @@
-.container {
-    position: relative;
-}
-
-.black-box {
-    position: relative;
+/* Overflow Separate Example */
+.overflow-separate {
+    width: 200px;
+    height: 100px;
+    background-color: pink;
+    overflow-x: hidden; /* Hide horizontal overflow */
+    overflow-y: scroll; /* Show vertical scrollbar */
     border: 2px solid black;
-    height: 100px;
-    margin: 30px;
-}
-
-.gray-box {
-    position: absolute;
-    background: lightgray;
-    height: 60px;
-    width: 70%;
-    left: 50px;
-    top: 50px;
-}
-
-.green-box {
-    position: absolute;
-    background: lightgreen;
-    width: 35%;
-    left: 270px;
-    top: -15px;
-    height: 100px;
-}
+    padding: 10px;
+  }
