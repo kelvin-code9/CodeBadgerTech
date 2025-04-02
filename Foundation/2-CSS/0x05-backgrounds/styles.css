@@ -1,10 +1,38 @@
-/* Overflow Separate Example */
-.overflow-separate {
-    width: 200px;
-    height: 100px;
-    background-color: pink;
-    overflow-x: hidden; /* Hide horizontal overflow */
-    overflow-y: scroll; /* Show vertical scrollbar */
-    border: 2px solid black;
-    padding: 10px;
-  }
+/* Styling for the two columns container */
+.container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Styling for the left column */
+.left-column {
+    float: left;            /* Float left */
+    width: 35%;             /* Set width to 45% */
+    padding: 20px;
+    margin-right: 5%;       /* Add space between columns */
+    background-color: #e1f7d5;  /* Light green background */
+    border-radius: 8px;     /* Rounded corners */
+}
+
+/* Styling for the right column */
+.right-column {
+    float: left;            /* Float right column to the left */
+    width: 35%;             /* Set width to 45% */
+    padding: 20px;
+    background-color: #d1e3f7;  /* Light blue background */
+    border-radius: 8px;     /* Rounded corners */
+}
+
+/* Header style for columns */
+h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+/* Text styling inside columns */
+p {
+    font-size: 1rem;
+    color: #555;
+}
