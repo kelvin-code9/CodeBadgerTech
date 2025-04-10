@@ -308,5 +308,3 @@ Try these challenges:
 4. Change the color of selected text using `::selection`.
 
 ---
-
-This concludes the **CSS Pseudo-elements** tutorial. Let me know if you'd like this to be a **downloadable PDF**, or if you want any more examples, tips, or exercises!
