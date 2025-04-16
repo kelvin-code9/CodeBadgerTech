@@ -1,4 +1,3 @@
-::selection {
-    color: red;  /* Changes the selected text color to red */
-    background: yellow;  /* Changes the selection background to yellow */
-  }
+div ~ p {
+  background-color: lightblue;
+}
