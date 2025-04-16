@@ -1,0 +1,2 @@
+### Looking for assignments??? 😒😒😶‍🌫️😶‍🌫️  
+Chill, I got you. I’ve got a ton of these waiting for you. 😂 Just wait till we finish up with the whole transition thing. It’s about to get way more interesting, trust me. 😏

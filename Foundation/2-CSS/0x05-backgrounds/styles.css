@@ -1,30 +1,52 @@
-/* Reset list styles */
-.nav {
-    list-style-type: none; /* Removes default bullet points */
-    padding: 0;            /* Removes default padding */
-    margin: 0;             /* Removes default margin */
-    text-align: center;    /* Centers the navigation items */
-    background-color: #333; /* Dark background for the nav bar */
-  }
-  
-  /* Style for each list item */
-  .nav li {
-    display: inline-block; /* Makes the list items display horizontally */
-    margin-right: 20px;    /* Adds space between items */
-  }
-  
-  /* Style for the links */
-  .nav li a {
-    display: block;         /* Makes the link behave like a block element */
-    padding: 15px 20px;     /* Adds padding inside the link */
-    text-decoration: none;  /* Removes the underline */
-    color: #fff;            /* White text color */
-    background-color: #444; /* Slightly lighter background color */
-    border-radius: 5px;     /* Rounded corners */
-  }
-  
-  /* Hover effect for the links */
-  .nav li a:hover {
-    background-color: #555; /* Darken the background on hover */
-    transition: background-color 0.3s ease; /* Smooth transition */
-  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f9f9f9;
+}
+
+.target {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
+
+.ring {
+  position: absolute;
+  border: 3px solid #333;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+.ring1 {
+  transform: scale(1);
+}
+
+.ring2 {
+  transform: scale(1.2);
+}
+
+.ring3 {
+  transform: scale(1.4);
+}
+
+.target:hover .ring1 {
+  transform: scale(1.2) skew(20deg, 0deg);
+}
+
+.target:hover .ring2 {
+  transform: scale(1.4) skew(-20deg, 0deg);
+}
+
+.target:hover .ring3 {
+  transform: scale(1.6) skew(10deg, 0deg);
+}
