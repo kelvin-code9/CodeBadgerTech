@@ -319,6 +319,8 @@ Advanced method that combines **scale, skew, rotate, and translate**.
 ## 🚀 Coming Up Next
 
 Next lesson:  
+**CSS Transitions**
+
 ➡️ **CSS 3D Transforms** — bring depth and perspective to your elements.
 
 ---
