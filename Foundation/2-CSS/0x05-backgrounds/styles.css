@@ -1,12 +1,60 @@
-.flex-container {
-  display: flex;
-  background-color: lightblue;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  height: 100%;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 200px 1fr 200px; /* Defines the layout of three columns */
+  grid-template-rows: auto 1fr auto; /* Defines the rows with auto height for header and footer */
+  grid-template-areas:
+      "header header header" /* The header spans all columns */
+      "nav main-content sidebar" /* The main content is larger, sidebar and nav are fixed size */
+      "footer footer footer"; /* Footer spans all columns */
+  gap: 10px;
+  min-height: 100vh; /* Ensures the grid takes at least the full height of the viewport */
   padding: 10px;
 }
 
-.flex-container div {
-  background: steelblue;
-  color: white;
+header, nav, main, aside, footer {
+  background-color: #fff;
   padding: 20px;
-  margin: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  grid-area: header;
+  background-color: #333;
+  color: white;
+  text-align: center;
+}
+
+nav {
+  grid-area: nav;
+  background-color: #e7e7e7;
+}
+
+main {
+  grid-area: main-content;
+  background-color: #fff;
+  color: #333;
+}
+
+aside {
+  grid-area: sidebar;
+  background-color: #f9f9f9;
+}
+
+footer {
+  grid-area: footer;
+  background-color: #333;
+  color: white;
+  text-align: center;
 }
