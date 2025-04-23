@@ -1,52 +1,17 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
+.flex-container {
   display: flex;
+  background-color: lightblue;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  background-color: #f9f9f9;
+  text-align: center;
+  padding: 10px;
+  height: 300px;
 }
 
-.target {
-  position: relative;
-  width: 200px;
-  height: 200px;
-}
-
-.ring {
-  position: absolute;
-  border: 3px solid #333;
-  border-radius: 50%;
-  width: 100%;
-  height: 100%;
-  transition: transform 0.5s ease, opacity 0.5s ease;
-}
-
-.ring1 {
-  transform: scale(1);
-}
-
-.ring2 {
-  transform: scale(1.2);
-}
-
-.ring3 {
-  transform: scale(1.4);
-}
-
-.target:hover .ring1 {
-  transform: scale(1.2) skew(20deg, 0deg);
-}
-
-.target:hover .ring2 {
-  transform: scale(1.4) skew(-20deg, 0deg);
-}
-
-.target:hover .ring3 {
-  transform: scale(1.6) skew(10deg, 0deg);
+.flex-container div {
+  background: steelblue;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  width: 30px;
 }
