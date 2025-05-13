@@ -1,13 +1,58 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <link rel="stylesheet" href="styles.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JavaScript Color Changer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f0f0f0;
+      padding: 50px;
+      transition: background-color 0.5s ease;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    button {
+      padding: 15px 30px;
+      font-size: 1.2em;
+      color: white;
+      background-color: #007bff;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      margin-top: 30px;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
 </head>
 <body>
-  <div class="grid-container">
-    <div class="item">Top</div>
-    <div class="item">Middle</div>
-    <div class="item">Bottom</div>
-  </div>
+
+  <h1>🎨 Let's Change the Background Color!</h1>
+  <button onclick="changeColor()">Click Me</button>
+
+  <script>
+    function changeColor() {
+      // Array of colors to choose from
+      const colors = ["#FF6347", "#4CAF50", "#FFD700", "#1E90FF", "#8A2BE2"];
+      
+      // Randomly select a color from the array
+      const randomColor = colors[Math.floor(Math.random() * colors.length)];
+      
+      // Change the background color
+      document.body.style.backgroundColor = randomColor;
+      
+      // Log a fun message in the console
+      console.log("Haha, I'm just showing off a little. You get it?");
+    }
+  </script>
+
 </body>
 </html>
