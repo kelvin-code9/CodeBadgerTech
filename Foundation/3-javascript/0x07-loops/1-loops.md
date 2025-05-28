@@ -1,4 +1,4 @@
-### **Lesson 1: Introduction to Loops in JavaScript**
+## Introduction to Loops in **JavaScript**
 
 #### **Introduction to Loops**
 In programming, loops are used to repeat a block of code multiple times. Instead of writing repetitive code manually, loops allow you to run the same code block a specific number of times or until a particular condition is met.
