@@ -621,5 +621,3 @@ document.getElementById("inner").addEventListener("click", function (e) {
 | `input`     | User types in a field (real-time) | Live search, character counter |
 
 ---
-
-Let me know when you're ready to move on to `querySelector()` / `querySelectorAll()` in depth or start DOM content manipulation (text, attributes, styles, creating elements, etc.).
