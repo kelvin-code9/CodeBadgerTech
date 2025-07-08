@@ -135,10 +135,7 @@ You can safely delete the following to simplify your project:
 
 Now that your app is running, we’ll dive into:
 
-* What JSX actually is
+* What TSX actually is
 * How components work
 * And how to pass data between them
-
-Let’s go deeper in the next tutorial!
-
 ---
