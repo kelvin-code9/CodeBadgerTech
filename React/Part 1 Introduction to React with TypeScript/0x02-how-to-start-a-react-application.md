@@ -136,6 +136,7 @@ You can safely delete the following to simplify your project:
 Now that your app is running, we’ll dive into:
 
 * What TSX actually is
+* Typing in typescript 
 * How components work
 * And how to pass data between them
 ---
