@@ -91,13 +91,3 @@ We will introduce these next.
   * And thus **trigger React to re-render automatically**.
 
 ---
-
-### ✅ Up Next:
-
-> In the next lesson, we’ll learn:
-
-* **Lesson 8: Stateful Components (with `useState`)**
-
-This is where things get truly dynamic — our components will start **changing data and re-rendering live**.
-
----
